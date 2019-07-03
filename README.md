@@ -15,7 +15,7 @@ Meetup on deeplearning course part 2
 
 ## Final Project ideas:
 
-- Reproduce a paper of your choice using the knowledge of the lectures
+- Reproduce a paper of your choice using the knowledge from the lectures
 - Work on the following kaggle challenges
   - [Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection)
   - [Pneumothorax Segmentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation)
