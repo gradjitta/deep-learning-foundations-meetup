@@ -1,4 +1,4 @@
-# deep-learning-foundations-meetup
+# Deep learning foundations (Machine learning study group)
 Meetup on deeplearning course part 2
 
 :exclamation:= Compulsory materials and assignments
