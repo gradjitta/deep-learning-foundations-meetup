@@ -4,7 +4,7 @@ Meetup on deeplearning course part 2
 :exclamation:= Compulsory materials and assignments
 
 
-## Week 1 - Basics of matrix multiplication using Pytorch
+## Week 1 - Fastai overview & Basics of matrix multiplication using Pytorch
 #### Course material: 
 - Lecture:
   - :exclamation: [Lecture 1 ](https://course.fast.ai/videos/?lesson=1) 
