@@ -9,6 +9,7 @@ Meetup on deeplearning course part 2
 - Lecture:
   - :exclamation: Overview of Fastai and deep learning: [Lecture 1 ](https://course.fast.ai/videos/?lesson=1) 
   - :exclamation: Basics of matrix multiplication: [Lecture 8 ](https://course.fast.ai/videos/?lesson=8) 
+  - [MIT: Introduction of Deeplearning](https://www.youtube.com/watch?v=JN6H4rQvwgY)
   - [Code repo](https://github.com/fastai/course-v3)
 
 ## Week 2 -  Loss functions, optimizers, and the training loop
