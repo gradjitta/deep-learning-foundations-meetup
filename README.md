@@ -7,7 +7,8 @@ Meetup on deeplearning course part 2
 ## Week 1 - Basics of matrix multiplication using Pytorch
 #### Course material: 
 - Lecture:
-  - :exclamation: [Lecture 1 ](https://course.fast.ai/videos/?lesson=1) [Lecture 8 ](https://course.fast.ai/videos/?lesson=8) 
+  - :exclamation: [Lecture 1 ](https://course.fast.ai/videos/?lesson=1) 
+  - :exclamation: [Lecture 8 ](https://course.fast.ai/videos/?lesson=8) 
   - [Code repo](https://github.com/fastai/course-v3)
 
 ## Week 2 -  Loss functions, optimizers, and the training loop
