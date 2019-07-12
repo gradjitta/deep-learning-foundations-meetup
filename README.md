@@ -12,6 +12,8 @@ Meetup on deeplearning course part 2
   - [MIT: Introduction of Deeplearning](https://www.youtube.com/watch?v=JN6H4rQvwgY)
   - [Code repo](https://github.com/fastai/course-v3)
 
+[Previous deep learning track](https://github.com/SirongHuang/Deep-Learning-Track-ML_Meetup/blob/master/README.md)
+
 ## Week 2 -  Loss functions, optimizers, and the training loop
 ## Week 3,4,5,6 (To be decided)
 
